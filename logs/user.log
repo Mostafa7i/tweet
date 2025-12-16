@@ -1,0 +1,6 @@
+2025-11-29 14:57:28 | INFO | ValidationError: "firstName" is required. "fristName" is not allowed
+2025-11-29 15:11:18 | INFO | ValidationError: "firstName" is not allowed. "lastName" is not allowed
+2025-11-29 15:26:21 | INFO | ValidationError: "firstName" is required. "fristName" is not allowed
+2025-12-09 00:48:19 | INFO | ValidationError: "rePassword" is not allowed
+2025-12-09 00:48:30 | INFO | ValidationError: "rePassword" is not allowed
+2025-12-09 00:50:45 | INFO | ValidationError: "rePassword" is not allowed
